@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Erling Pettersen",
+    "title": "Daglig leder",
+    "company": "Varme og Bad Gruppen",
+    "industry": "VVS / Eiendomsservice",
+    "bio": "Leder et av regionens mest etablerte VVS-selskaper med fokus på bærekraftig oppvarming og moderne baderomsløsninger. Har bygget selskapet fra håndverkertradisjon til en profesjonell serviceorganisasjon med solid fotfeste i markedet.",
+    "imageUrl": "",
+    "linkedinUrl": ""
+  },
+  {
+    "id": "2",
+    "name": "Kristian Vervik Salte",
+    "title": "Prosjektleder",
+    "company": "Nærland Anleggsteknikk",
+    "industry": "Anlegg / Infrastruktur",
+    "bio": "Erfaren prosjektleder innen tung infrastruktur og anleggsarbeid. Jobber med alt fra veibygging til komplekse grunnarbeider, og har opparbeidet seg bred kompetanse i skjæringspunktet mellom teknisk utførelse og prosjektstyring.",
+    "imageUrl": "",
+    "linkedinUrl": ""
+  },
+  {
+    "id": "3",
+    "name": "Sissel Fladen",
+    "title": "Administrerende direktør",
+    "company": "Fox Subsea",
+    "industry": "Subsea-teknologi / Olje & gass",
+    "bio": "Driver et subsea-teknologiselskap som leverer avanserte undervannssystemer til olje- og gassindustrien. Kombinerer ingeniørfaglig tyngde med kommersiell forståelse, og har vært sentral i utviklingen av nye teknologiløsninger for krevende havbunnsoperasjoner.",
+    "imageUrl": "",
+    "linkedinUrl": ""
+  }
+]
