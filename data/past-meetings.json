@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "date": "2026-03-12",
+    "hostName": "Kristian Vervik Salte",
+    "hostCompany": "Nærland Anleggsteknikk",
+    "industry": "Anlegg / Infrastruktur",
+    "location": "Nærland hovedkontor, Nærbø",
+    "summary": "Omvisning i maskinparken og foredrag om bærekraftig massehåndtering i store infrastrukturprosjekter."
+  },
+  {
+    "id": "2",
+    "date": "2026-01-22",
+    "hostName": "Erling Pettersen",
+    "hostCompany": "Varme og Bad Gruppen",
+    "industry": "VVS / Eiendomsservice",
+    "location": "Showroom, Sandnes",
+    "summary": "Presentasjon av fremtidens oppvarmingsløsninger og diskusjon om energieffektivisering i eksisterende bygningsmasse."
+  }
+]
